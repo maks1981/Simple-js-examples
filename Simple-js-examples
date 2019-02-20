@@ -1,0 +1,15 @@
+// var num1 = "100"; // in a string "false", in a number "true".
+// var num2 = 100;
+
+// var boolNum = num1 === num2;
+// alert(typeof boolNum); // boolean
+// alert(num1 === num2); // true
+
+// alert(isNaN("blue")); // true
+// alert(isNaN('true')); // true
+
+// var num1 = parseInt("20.50");
+// alert(num1);
+
+// var num2 = parseFloat("20.500");
+// alert(num2);
